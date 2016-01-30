@@ -1,15 +1,7 @@
 # Introduce-PEDA
 ============
-#In Codegate Junior Semina
-Simply introduce about me, I using nickname r00p3r, there is no meaning about nickname and I interested in Exploit and Python programming.
 
-In [Codegate](http://codegate.org), I presented about peda but I can’t open keynote file cause windows doesn’t support keynote file.
-
-I don’t know why HDMI didn’t work in my mac book, so I used teamviewer to presented it.
-That was not good. My presentation got wrecked and I was really confused.
-Even though many of listeners wanted my presentation file, so I get to make this pdf file.
-Thank you for got interested on my presentation.
-
+Made by Philip Yoon Shin
 
 # Explain Exploit Development Assistance for GDB
 
@@ -57,7 +49,7 @@ Using Peda, you can decrease needless time.
 ![problem](http://i.imgur.com/j5cN6EA.png)
 
 It has problem with gdb version.
-Peda wrote by python 2.7 but Ubuntu 13.04 or later versions don’t support python 2.7.
+Peda had developed by python 2.7 but Ubuntu 13.04 or later versions don’t support python 2.7.
 so we can’t use peda in the latest ubuntu version.
 
 I have some solutions for solve this problem
@@ -66,7 +58,7 @@ I have some solutions for solve this problem
 + Downgrade gdb version to 7.4 
 + Download the other peda that someone change the peda can use in latest ubuntu version
 
-Peda source uploaded to github so we can download the peda that someone fix the problem.
+Peda source had been uploaded to github so we can download the peda that someone fixed the problem.
 
 
 ##Downgrade Ubuntu version
@@ -225,7 +217,7 @@ Finally we can use pedal on latest ubuntu version!
 
 
 
-### *I have some questions*
+### *I have some questions!*
 
 [Issue](https://github.com/r00p3r/Introduce-PEDA/issues)
 
