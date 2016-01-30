@@ -5,7 +5,7 @@ Made by Philip Yoon Shin
 
 # Explain Exploit Development Assistance for GDB
 
-##Subject
+#Subject
 
 + Summary of peda
 
