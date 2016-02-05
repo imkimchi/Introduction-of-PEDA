@@ -22,7 +22,7 @@ Enhance the display of gdb
 + create pattern and shellcode for exploit
 + some utilities
 
-Peda has many of utilities for exploit.
+Peda has many utilities for helping exploit.
 Using Peda, you can decrease needless time.
 
 
@@ -48,7 +48,7 @@ Using Peda, you can decrease needless time.
 
 ![problem](http://i.imgur.com/j5cN6EA.png)
 
-It has problem with gdb version.
+It has a problem with gdb version.
 Peda had developed by python 2.7 but Ubuntu 13.04 or later versions don’t support python 2.7.
 so we can’t use peda in the latest ubuntu version.
 
