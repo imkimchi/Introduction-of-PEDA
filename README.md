@@ -1,5 +1,4 @@
 # Introduce-PEDA
-============
 
 Made by Philip Yoon Shin
 
@@ -219,7 +218,4 @@ Finally we can use pedal on latest ubuntu version!
 
 ### *I have some questions!*
 
-[Issue](https://github.com/r00p3r/Introduce-PEDA/issues)
-
-Ask me here!
- 
+[Issue](https://github.com/imkimchi/Introduce-PEDA/issues)
