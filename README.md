@@ -1,9 +1,5 @@
 # Introduce-PEDA
 
-Made by Philip Yoon Shin
-
-# Explain Exploit Development Assistance for GDB
-
 #Subject
 
 + Summary of peda
